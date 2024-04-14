@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Musashi">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Musashi.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
